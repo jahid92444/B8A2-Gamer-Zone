@@ -113,6 +113,7 @@ font-weight: 500;
 }
 .we-are-gamer{
   display: flex;
+  margin-top: 52px;
 }
 .grad{
   text-align: right;
@@ -140,4 +141,21 @@ margin-right: 52px;
 .ag{
   margin-left: 404px;
   margin-top: 32px;
+}
+.purpose{
+  color: #534C64;
+text-align: right;
+font-family: Work Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 45px; 
+}
+.unleash{
+  color: #534C64;
+  text-align: right;
+font-family: Work Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 45px;
+
 }

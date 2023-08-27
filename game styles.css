@@ -134,7 +134,7 @@ line-height: 30px;
 margin-top: 24px; 
 }
 .mickey-mouse{
-  width: 868px;
+  width: 100%;
 height: 489px;
 margin-right: 52px;
 }
@@ -159,3 +159,121 @@ font-weight: 700;
 line-height: 45px;
 
 }
+.vortex{
+  width: 342px;
+height: 400px;
+margin-right: 10px;
+padding-left: 55px;
+}
+.funny{
+  color: #0B0223;
+text-align: center;
+font-family: Work Sans;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;}
+.funny-video{
+  background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.Hilarious{
+  color: #534C64;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px; 
+margin-top: 10px;
+margin-bottom: 48px;
+}
+.multi-image{
+  display: flex;
+}
+.sp-hover{
+  padding-left: 55px;
+  color: #534C64;
+font-family: Work Sans;
+font-size: 20px;
+
+font-weight: 500;
+line-height: 30px; 
+margin-top: 14px;
+}
+.main-part{
+  display: flex;
+  margin-top: 120px;
+}
+.main-part img{
+  margin-left: 50px;
+}
+.absolute{
+  margin: 0;
+  position: relative;
+  bottom: 100px;
+  padding-left: 520px;
+
+}
+.pl{
+  color:rgb(247, 95, 214) ;
+}
+.on{
+  color: rgb(230, 11, 230);
+}
+.Anytime{
+  
+font-size: 48px;
+padding-left: 100px;
+font-weight: 700;
+line-height: 60px; 
+padding-top: 380px;
+}
+.pc{
+  color: #534C64;
+ 
+  font-family: Work Sans;
+font-size: 18px;
+margin-top: 24px;
+font-weight: 400;
+line-height: 30px; 
+padding-left: 100px;
+}
+
+.mini-games{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arcade-games{
+  border-radius: 50px;
+background: #FFF;
+padding: 12px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-right: 27px;
+padding-right: 20px;
+ 
+}
+.arcade-games img{
+  margin-right: 16px;
+}
+.arcade-games p{
+  color: #0B0223;
+font-family: Work Sans;
+font-size: 20px;
+
+font-weight: 600;
+
+}
+.koshto{
+  width: 100%;
+height: 427px;
+background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
+
+    
+

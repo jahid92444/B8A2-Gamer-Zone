@@ -136,10 +136,10 @@ font-weight: 400;
 line-height: 30px;
 margin-top: 24px; 
 }
-.mickey-mouse{
+.mickey-mouse img{
   width: 100%;
 height: 489px;
-margin-right: 52px;
+margin-right: 62px;
 }
 .ag{
   margin-left: 404px;
@@ -290,7 +290,7 @@ padding-top: 39px;
 .foot{
   justify-content: center;
   align-items: center;
-  margin-top: 120px;
+  margin-top: 20px;
 }
 .G{
   color: #ff42a5;
@@ -307,7 +307,7 @@ padding-top: 120px;
 }
 .paragraphs{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
    padding-left: 200px;
    padding-right: 200px;
    margin-top: 50px;
@@ -323,6 +323,45 @@ font-weight: 600;
 margin-right: 60px;
 
 }
+.image-link{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 40px;
+}
+.image-link img{
+  height: 40px;
+  width: 45px;
+}
+.terms{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-left: 90px;
+  padding-right: 90px;
+  margin-top: 40px;
+}
+.terms p{
+  color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+
+font-weight: 500;
+
+}
+.last-part p{
+  color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 500;
+margin-top: 40px;
+
+}
+
 
     
 

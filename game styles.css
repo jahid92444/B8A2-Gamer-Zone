@@ -8,7 +8,10 @@ body{
 header{ 
 padding-top: 38px;
 }
-
+.header-img{
+  width: 100%;
+  height: 100%;
+}
 nav img{
   width: 86.041px;
 height: 40px;
@@ -160,7 +163,6 @@ font-family: Work Sans;
 font-size: 32px;
 font-weight: 700;
 line-height: 45px;
-
 }
 .vortex{
   width: 342px;
@@ -187,7 +189,6 @@ background-clip: text;
 text-align: center;
 font-family: Work Sans;
 font-size: 18px;
-
 font-weight: 400;
 line-height: 30px; 
 margin-top: 10px;
@@ -201,7 +202,6 @@ margin-bottom: 48px;
   color: #534C64;
 font-family: Work Sans;
 font-size: 20px;
-
 font-weight: 500;
 line-height: 30px; 
 margin-top: 14px;
@@ -218,7 +218,6 @@ margin-top: 14px;
   position: relative;
   bottom: 100px;
   padding-left: 520px;
-
 }
 .pl{
   color:rgb(247, 95, 214) ;
@@ -226,8 +225,7 @@ margin-top: 14px;
 .on{
   color: rgb(230, 11, 230);
 }
-.Anytime{
-  
+.Anytime{  
 font-size: 48px;
 padding-left: 100px;
 font-weight: 700;
@@ -236,7 +234,6 @@ padding-top: 380px;
 }
 .pc{
   color: #534C64;
- 
   font-family: Work Sans;
 font-size: 18px;
 margin-top: 24px;
@@ -244,7 +241,6 @@ font-weight: 400;
 line-height: 30px; 
 padding-left: 100px;
 }
-
 .mini-games{
   display: flex;
   justify-content: center;
@@ -259,8 +255,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 margin-right: 27px;
-padding-right: 20px;
- 
+padding-right: 20px; 
 }
 .arcade-games img{
   margin-right: 16px;
@@ -269,9 +264,7 @@ padding-right: 20px;
   color: #0B0223;
 font-family: Work Sans;
 font-size: 20px;
-
 font-weight: 600;
-
 }
 .koshto{
   width: 100%;
@@ -279,13 +272,11 @@ height: 427px;
 background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
 margin-top: 10px;
 padding-top: 120px;
-
 }
 footer img{
   width: 86.041px;
 height: 40px;
 padding-top: 39px;
-
 }
 .foot{
   justify-content: center;
@@ -303,7 +294,6 @@ footer{
 height: 636px;
 background: #0B0223;
 padding-top: 120px;
-
 }
 .paragraphs{
   display: flex;
@@ -311,17 +301,13 @@ padding-top: 120px;
    padding-left: 200px;
    padding-right: 200px;
    margin-top: 50px;
-  
 }
 .paragraphs p{
   color: #FFF;
-
 font-family: Work Sans;
 font-size: 18px;
-
 font-weight: 600;
 margin-right: 60px;
-
 }
 .image-link{
   display: flex;
@@ -348,9 +334,7 @@ margin-right: 60px;
 text-align: center;
 font-family: Work Sans;
 font-size: 16px;
-
 font-weight: 500;
-
 }
 .last-part p{
   color: rgba(255, 255, 255, 0.60);
@@ -359,8 +343,21 @@ font-family: Work Sans;
 font-size: 16px;
 font-weight: 500;
 margin-top: 40px;
-
 }
+#hover-arcade:hover{
+ border: 1px solid #ff42a5;
+ cursor: pointer;
+ 
+}
+#hover-arcade p:hover{
+  color: #ff42a5;
+}
+
+
+
+
+
+  
 
 
     

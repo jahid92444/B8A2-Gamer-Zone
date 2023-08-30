@@ -6,7 +6,7 @@ body{
   padding: 0px;
 }
 header{ 
-padding-top: 38px;
+padding-top: 5px;
 }
 .header-img{
   width: 100%;
@@ -353,6 +353,12 @@ margin-top: 40px;
   color: #ff42a5;
 }
 
+@media screen and (max-width) {
+  nav {
+    flex-direction: column;
+  }
+  
+}
 
 
 
